@@ -52,8 +52,10 @@ export default {
   name: "TarjetaDatos",
   data() {
     return {
-      imgChip: require("@/assets/chip.png"), //cabe destacar que dejampos las imagenes debido a que la rubrica nos pide enlazar las rutas.
-      imgTarjeta: require("@/assets/visa.png"),
+      // imgChip: require("@/assets/chip.png"), //cabe destacar que dejampos las imagenes debido a que la rubrica nos pide enlazar las rutas.
+      // imgTarjeta: require("@/assets/visa.png"),
+      imgChip: "./chip.png", 
+      imgTarjeta:"./visa.png",
       tituloTarjeta: "",
       numeroTarjeta: "",
       fechaExp: "",

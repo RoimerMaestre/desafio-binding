@@ -24,6 +24,9 @@ La vista de la tarjeta que muestra los datos ingresados.
 ## dudas
 En lo personal no supe hacer la ruta de la imagen, esta estaba de manera local. investigue y la solucion fue usar require(tenemos entendido que se se utiliza para incluir archivos estáticos, como imágenes, de manera que puedan ser gestionados por el sistema de módulos.), tuve duda porque hasta ahora se habia usado basicamente ../archivo/etc
 
+con el profe pude solucionar la duda, aunque no entendi muy bien realmente, solo cambiamos las imagenes a la carpeta public y asi si sirve
+
+
 
 
 ## Project setup
